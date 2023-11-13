@@ -1,5 +1,4 @@
-# Welcome to the a Ceasar ChiffreImplementation
-
+# Welcome to a small Ceasar Chiffre Implementation!
 
 Welcome to my small software implementation of the Caesar cipher in PYTHON! This project dives into the fascinating world of cryptography, specifically focusing on the very simple Caesar cipher. Caesar encryption is a simple symmetric encryption method. As one of the simplest and least secure methods, it is mainly used to illustrate the basic principles of cryptology. Dive into the world of encryption with this simple piece of softwere!. For more details about the Caesar Chiffre take a look to the [Caesar Chiffre Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher).
 
@@ -7,7 +6,6 @@ In the [Terminal Version](/Terminal%20Version) folder, you'll find some compact 
   
 ![](/GUI%20Version%20(tkinter)/Screenshot_small.png)
   
-**Note**
-ciphereditor is an educational and productive web application built by Wierk offering a fresh way of interacting with cryptography, ciphers, and data to make these subjects more approachable to everyone. It is the successor to cryptii, a project initiated in 2009.
+If you are interrested in the topic of cipher please checkout the cool web projekte [ciphereditor](https://ciphereditor.com). It is an educational and productive web application built by Wierk offering a fresh way of interacting with cryptography, ciphers, and data to make these subjects more approachable to everyone. It is the successor to [cryptii](https://cryptii.com), a project initiated in 2009.
 
 
